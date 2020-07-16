@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/War-of-Dragons/static/css/main.6201fd8f.chunk.css",
+    "main.js": "/War-of-Dragons/static/js/main.fe188a7f.chunk.js",
+    "main.js.map": "/War-of-Dragons/static/js/main.fe188a7f.chunk.js.map",
+    "runtime-main.js": "/War-of-Dragons/static/js/runtime-main.08bcb1aa.js",
+    "runtime-main.js.map": "/War-of-Dragons/static/js/runtime-main.08bcb1aa.js.map",
+    "static/css/2.d0a510e7.chunk.css": "/War-of-Dragons/static/css/2.d0a510e7.chunk.css",
+    "static/js/2.20f0eb74.chunk.js": "/War-of-Dragons/static/js/2.20f0eb74.chunk.js",
+    "static/js/2.20f0eb74.chunk.js.map": "/War-of-Dragons/static/js/2.20f0eb74.chunk.js.map",
+    "index.html": "/War-of-Dragons/index.html",
+    "precache-manifest.ceefed5c91fc2aa20f48a008c07f863f.js": "/War-of-Dragons/precache-manifest.ceefed5c91fc2aa20f48a008c07f863f.js",
+    "service-worker.js": "/War-of-Dragons/service-worker.js",
+    "static/css/2.d0a510e7.chunk.css.map": "/War-of-Dragons/static/css/2.d0a510e7.chunk.css.map",
+    "static/css/main.6201fd8f.chunk.css.map": "/War-of-Dragons/static/css/main.6201fd8f.chunk.css.map",
+    "static/js/2.20f0eb74.chunk.js.LICENSE.txt": "/War-of-Dragons/static/js/2.20f0eb74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08bcb1aa.js",
+    "static/css/2.d0a510e7.chunk.css",
+    "static/js/2.20f0eb74.chunk.js",
+    "static/css/main.6201fd8f.chunk.css",
+    "static/js/main.fe188a7f.chunk.js"
+  ]
+}
